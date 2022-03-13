@@ -4,6 +4,7 @@ linguagens de programação: Python e JavaScript, com as quais me divirto bastan
 o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D).</li><br>
 <li> 🌱 Estou ultimamente aprendendo como otimizar meus sites a partir de ferramentas visuais e programação pura.</li><br>
 <li> 📔 Sei utilizar HTML (intermediário), CSS (básico-intermediário), JavaScript e Python(intermediário).</li><br>
+<li> Meu e-mail: <a href="mailto:luanaferreiraservices@gmail.com">luanaferreiraservices@gmail.com</a></li>
 <img size="1" src="html-css-js.jpg"><img size="1" src="Python-Simbolo.png">
 <link rel="stylesheet" href="style.css">
 <a href="mailto:luanaferreiraservices@gmail.com">Contate-me!</a>
