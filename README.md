@@ -3,7 +3,7 @@
 linguagens de programação: Python e JavaScript, com as quais me divirto bastante e me estresso também(parte do processo que amo até chegar no resultado final, ver
 o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D).</li><br>
 <li> 🌱 Estou ultimamente aprendendo como otimizar meus sites a partir de ferramentas visuais e programação pura.</li><br>
-<li> 📔 Sei utilizar HTML (intermediário), CSS (básico-intermediário), JavaScript e Python(intermediário).</li><br>
+<li> 📔 Sei utilizar <b>HTML</b> (intermediário), <b>CSS</b> (básico-intermediário), <b>JavaScript</b> e <b>Python</b> (intermediário).</li><br>
 <li> Meu e-mail: <a href="mailto:luanaferreiraservices@gmail.com">luanaferreiraservices@gmail.com</a></li>
 <li> Meu LinkedIn: <a href=""https://www.linkedin.com/in/luana-ferreira-de-souza-067748230/"> Clique aqui! </a></li>
 <img size="1" src="html-css-js.jpg"><img size="1" src="Python-Simbolo.png">
