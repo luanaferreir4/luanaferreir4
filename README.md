@@ -1,3 +1,4 @@
+<font face="monospace">
 # Olá, sou a Luana Ferreira!<hr>
 * 👀 Sou uma amante de tecnologias, mais especificadamente em aprender novas linguagens (humanas e não-humanas hahaha), atualmente apenas sei programar em duas
 linguagens de programação: Python e JavaScript, com as quais me divirto bastante e me estresso também(parte do processo que amo até chegar no resultado final, ver
@@ -8,6 +9,7 @@ o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso :D
 1. ✉ Meu e-mail: [luanaferreiraservices@gmail.com](mailto:luanaferreiraservices@gmail.com)
 2. 📃 Meu LinkedIn: [Clique aqui!](https://www.linkedin.com/in/luana-ferreira-de-souza-067748230/)
 ## Ferramentas que sei utilizar:
+ </font>
 <div dir="display: inline_block"><br>
 <p><img align="center" alt="Luana-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
