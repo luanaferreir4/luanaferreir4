@@ -5,6 +5,8 @@ o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D
 - 🌱 Estou ultimamente aprendendo como otimizar meus sites a partir de ferramentas visuais e programação pura.
 - 📔 Sei utilizar HTML (intermediário), CSS (básico-intermediário), JavaScript e Python(intermediário). 
 <img size="1" src="html-css-js.jpg"><img size="1" src="Python-Simbolo.png">
+<link rel="stylesheet" href="style.css">
+
 <!---
 luanaferreir4/luanaferreir4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
