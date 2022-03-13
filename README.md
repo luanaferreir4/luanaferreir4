@@ -8,7 +8,6 @@ o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso :D
 1. ✉ Meu e-mail: [luanaferreiraservices@gmail.com](mailto:luanaferreiraservices@gmail.com)
 2. 📃 Meu LinkedIn: [Clique aqui!](https://www.linkedin.com/in/luana-ferreira-de-souza-067748230/)
 ## Ferramentas que sei utilizar:
-<br>
 <div dir="auto"><br>
 <img align="center" alt="Luana-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
