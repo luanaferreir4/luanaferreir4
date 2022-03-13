@@ -1,9 +1,9 @@
 <h1>Olá, sou a Luana Ferreira</h1>
-- 👀 Sou uma amante de tecnologias, mais especificadamente em aprender novas linguagens (humanas e não-humanas hahaha), atualmente apenas sei programar em duas
+<li> 👀 Sou uma amante de tecnologias, mais especificadamente em aprender novas linguagens (humanas e não-humanas hahaha), atualmente apenas sei programar em duas
 linguagens de programação: Python e JavaScript, com as quais me divirto bastante e me estresso também(parte do processo que amo até chegar no resultado final, ver
-o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D).<br>
-- 🌱 Estou ultimamente aprendendo como otimizar meus sites a partir de ferramentas visuais e programação pura.<br>
-- 📔 Sei utilizar HTML (intermediário), CSS (básico-intermediário), JavaScript e Python(intermediário). <br>
+o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D).</li><br>
+<li> 🌱 Estou ultimamente aprendendo como otimizar meus sites a partir de ferramentas visuais e programação pura.</li><br>
+<li> 📔 Sei utilizar HTML (intermediário), CSS (básico-intermediário), JavaScript e Python(intermediário).</li><br>
 <img size="1" src="html-css-js.jpg"><img size="1" src="Python-Simbolo.png">
 <link rel="stylesheet" href="style.css">
 
