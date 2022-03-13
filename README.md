@@ -9,7 +9,7 @@ o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D
 <li>  ✉ Meu e-mail: <a href="mailto:luanaferreiraservices@gmail.com">luanaferreiraservices@gmail.com</a></li>
 <li> 📃 Meu LinkedIn: <a href=""https://www.linkedin.com/in/luana-ferreira-de-souza-067748230/"> Clique aqui! </a></li><br>
 </ol>
-  ![image](https://user-images.githubusercontent.com/89655748/158079307-4c48ef9a-f733-4acd-abdc-e01bb624bfec.png)
+  ![Logo Python](https://user-images.githubusercontent.com/89655748/158079307-4c48ef9a-f733-4acd-abdc-e01bb624bfec.png)
 <!---
 luanaferreir4/luanaferreir4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
