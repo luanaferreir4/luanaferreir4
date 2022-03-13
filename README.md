@@ -1,4 +1,4 @@
-- 👋 Olá, sou a Luana
+<h1>Olá, sou a Luana Ferreira</h1>
 - 👀 Sou uma amante de tecnologias, mais especificadamente em aprender novas linguagens (humanas e não-humanas hahaha), atualmente apenas sei programar em duas
 linguagens de programação: Python e JavaScript, com as quais me divirto bastante e me estresso também(parte do processo que amo até chegar no resultado final, ver
 o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso =D).
