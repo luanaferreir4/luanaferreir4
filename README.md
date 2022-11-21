@@ -6,7 +6,7 @@ o que fizemos e nossos olhos brilharem de orgulho de nosso próprio progresso :D
 * 📔 Sei utilizar <b>HTML</b> (avançado), <b>CSS</b> (intermediário), <b>JavaScript</b> e <b>Python</b> (intermediário).
 ## Contato:
 1. ✉ Meu e-mail: [luanaferreiraservices@gmail.com](mailto:luanaferreiraservices@gmail.com)
-2. 📃 Meu LinkedIn: [Clique aqui!](https://www.linkedin.com/in/luana-ferreira-de-souza-067748230/)
+2. 📃 Meu LinkedIn: [Luana F. de Souza](https://www.linkedin.com/in/luana-f-de-souza-067748230/)
 ## Ferramentas que sei utilizar:
 <div dir="display: inline_block"><br>
 <p><img align="center" alt="Luana-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
